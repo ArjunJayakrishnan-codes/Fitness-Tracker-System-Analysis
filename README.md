@@ -95,7 +95,7 @@ The analysis included:
 - NumPy
 - Matplotlib
 - Seaborn
-- Google Cola
+- Google Colab
 
 ---
 
