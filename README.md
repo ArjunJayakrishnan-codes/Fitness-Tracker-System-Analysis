@@ -81,7 +81,7 @@ The analysis included:
 
 ---
 
-## 🚀 Future Scope
+## Future Scope
 - Integration with real-time wearable devices
 - Machine learning models for prediction
 - Personalized workout recommendations
